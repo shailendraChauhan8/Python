@@ -10,3 +10,5 @@ def fibonacci_series(n):
 # Number of terms to generate
 num_terms = int(input("Enter the number of terms for the Fibonacci series: "))
 fibonacci_series(num_terms)
+
+

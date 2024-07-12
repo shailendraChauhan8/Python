@@ -50,3 +50,7 @@ animals = [dog, cat]
 for animal in animals:
     print(animal)    # Calls __str__ method
     print(animal.speak())  # Calls speak method
+
+
+
+
